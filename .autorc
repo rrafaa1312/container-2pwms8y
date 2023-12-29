@@ -1,0 +1,12 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "rrafaa1312",
+  "repo": "container-2pwms8y",
+  "name": "rrafaa1312",
+  "email": "rrafalul@gmail.com",
+}
